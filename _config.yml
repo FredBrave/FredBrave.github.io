@@ -1,9 +1,8 @@
 # Site Settings
 remote-theme: thiagorossener/jekflix-template
 name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: FredBrave | Web personal sobre ciberseguridad
+description: Cibersecurity Enthusiast / Future OSCP-OSEP
 tags:
   - blog
   - template
@@ -30,12 +29,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: FredBrave
+facebook_username: facebool_username
 twitter_username: twitter_username
 instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: FredBrave
+medium_username: FredBrave
 
 
 # Posts Settings
@@ -47,9 +46,9 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://FredBrave.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
