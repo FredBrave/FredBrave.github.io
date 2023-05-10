@@ -3,7 +3,7 @@ date: 2023-05-10 12:00:00
 layout: post
 title: Friendly2 Writeup
 subtitle: Writeup de la máquina Friendly2 de la plataforma HackMyVm
-description: Realizaré la máquina SolidState explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad facil.
+description: Realizaré la máquina Friendly2 explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad facil.
 image: https://hackmyvm.eu/img/logo.png
 optimized_image: https://hackmyvm.eu/img/logo.png
 category: Writeup
