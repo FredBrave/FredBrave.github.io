@@ -4,8 +4,8 @@ layout: post
 title: Friendly2 Writeup
 subtitle: Writeup de la máquina Friendly2 de la plataforma HackMyVm
 description: Realizaré la máquina Friendly2 explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad facil.
-image: https://hackmyvm.eu/img/logo.png
-optimized_image: https://hackmyvm.eu/img/logo.png
+image: https://blogger.googleusercontent.com/img/a/AVvXsEi3xBOqeSct11w-W6DTugjPdwecP_gRdmUBAILlRZK3M5uJAJ4URqNA8QG0rpF_3WTO9BCPB1E8kbXZmImEBofOCLk2IbgAc-NnwyVEyZ0-63YHFnZjGOeLTJvt7n5x44pPwSST-uK4jbqHeuz_pTn5v1cLlXBCHa2UXKjmM2FR2LOt5NtNSansiYTp=w1200-h630-p-k-no-nu
+optimized_image: https://blogger.googleusercontent.com/img/a/AVvXsEi3xBOqeSct11w-W6DTugjPdwecP_gRdmUBAILlRZK3M5uJAJ4URqNA8QG0rpF_3WTO9BCPB1E8kbXZmImEBofOCLk2IbgAc-NnwyVEyZ0-63YHFnZjGOeLTJvt7n5x44pPwSST-uK4jbqHeuz_pTn5v1cLlXBCHa2UXKjmM2FR2LOt5NtNSansiYTp=w1200-h630-p-k-no-nu
 category: Writeup
 tags:
   - HackMyVm
