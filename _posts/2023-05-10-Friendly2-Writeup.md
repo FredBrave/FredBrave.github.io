@@ -14,7 +14,7 @@ tags:
 author: FredBrave
 ---
 <img class="img" src="/assets/img/machines/Friendly2/base.png" width="1000">
-Esta maquina fue hechas por Rijaba, la maquina tiene una dificultad easy y las técnicas a utilizar para pwnearla son sencillas.
+Esta maquina fue hecha por Rijaba, la maquina tiene una dificultad easy y las técnicas a utilizar para pwnearla son sencillas.
 # Enumeración
 Trataremos de encontrar la ip de la maquina por medio de la herramienta arp-scan.
 ```bash

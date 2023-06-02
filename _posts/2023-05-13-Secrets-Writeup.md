@@ -4,8 +4,8 @@ layout: post
 title: Secrets Writeup
 subtitle: Writeup de la máquina Secrets de la plataforma VulNyx.
 description: Realizaré la máquina Secrets explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad Media.
-image: https://vulnyx.com/assets/logo.png
-optimized_image: https://vulnyx.com/assets/logo.png
+image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
+optimized_image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
 category: Writeup
 tags:
   - VulNyx
