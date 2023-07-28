@@ -11,4 +11,4 @@ permalink: /about/
 
 # About me
 
-Soy un apasionado de la ciberseguridad, el cual desea compartir sus conocimientos a través de este web. Actualmente, no tengo ninguna certificación que demuestre mis conocimientos, pero sí la actitud y las ganas de aprender y mejorar.
+Soy un apasionado de la ciberseguridad, el cual desea compartir sus conocimientos a través de este web. Actualmente, estoy estudiando la carrera Ingeniería en Software. Las futuras certificaciones que me gustaría hacer son la OSCP y OSEP. También desarrollo exploits y herramientas las cuales están subidas en mi github <a href='https://github.com/FredBrave'>FredBrave</a>.
