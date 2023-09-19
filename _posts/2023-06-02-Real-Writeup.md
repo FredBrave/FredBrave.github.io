@@ -4,8 +4,8 @@ layout: post
 title: Real Writeup
 subtitle: Writeup de la máquina Real de la plataforma VulNyx
 description: Realizaré la máquina Real explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad Easy.
-image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
-optimized_image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
+image: /assets/img/machines/Real/Real.png
+optimized_image: /assets/img/machines/Real/Real.png
 category: Writeup
 tags:
   - VulNyx

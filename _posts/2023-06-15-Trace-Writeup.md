@@ -4,8 +4,8 @@ layout: post
 title: Trace Writeup
 subtitle: Writeup de la máquina Trace de la plataforma VulNyx
 description: Realizaré la máquina Trace explicando el procedimiento para lograr pwnearla. Esta máquina tiene una dificultad Dificil.
-image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
-optimized_image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
+image: /assets/img/machines/Trace/Trace.png
+optimized_image: /assets/img/machines/Trace/Trace.png
 category: Writeup
 tags:
   - VulNyx

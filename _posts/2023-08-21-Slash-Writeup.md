@@ -4,8 +4,8 @@ layout: post
 title: Slash Writeup
 subtitle: Writeup de la máquina Slash de la plataforma Vulnyx
 description: En esta maquina nos aprovecharemos de una misconfiguration para realizar una Path Traversal para conseguir informacion de los usuarios del sistema y con esta hacer un Bruteforce al servicio ssh.
-image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
-optimized_image: https://raw.githubusercontent.com/VulNyx/vulnyx.github.io/main/assets/logo-og.png
+image: /assets/img/machines/Slash/Slash.png
+optimized_image: /assets/img/machines/Slash/Slash.png
 category: Writeup
 tags:
   - Vulnyx
